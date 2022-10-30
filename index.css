@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: "FreeMono";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: sandybrown;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2 {
+    text-align: center;
+    border: black solid 5px;
+    background-color: white;
+    margin: 10px;
+}
+
+button {
+  background-color: chocolate;  
+  color: black;  
+  text-align: center;
+  border: white solid 5px;
+  font-size: 25px;  
+  margin: 10px;
+}
+
+button:hover {
+  background-color: floralwhite;  
+  color: black;  
+  text-align: center;
+  border: white solid 5px;
+  font-size: 25px;  
+  margin: 10px;
+}
+
+img {
+  text-align: center;
+  margin: 10px;
+  border: white solid 6px;
+}
